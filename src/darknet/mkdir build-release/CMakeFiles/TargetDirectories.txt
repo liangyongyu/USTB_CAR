@@ -1,0 +1,9 @@
+/home/agv/yolo_v3/darknet/mkdir build-release/CMakeFiles/install/strip.dir
+/home/agv/yolo_v3/darknet/mkdir build-release/CMakeFiles/install/local.dir
+/home/agv/yolo_v3/darknet/mkdir build-release/CMakeFiles/install.dir
+/home/agv/yolo_v3/darknet/mkdir build-release/CMakeFiles/uselib.dir
+/home/agv/yolo_v3/darknet/mkdir build-release/CMakeFiles/edit_cache.dir
+/home/agv/yolo_v3/darknet/mkdir build-release/CMakeFiles/rebuild_cache.dir
+/home/agv/yolo_v3/darknet/mkdir build-release/CMakeFiles/darknet.dir
+/home/agv/yolo_v3/darknet/mkdir build-release/CMakeFiles/dark.dir
+/home/agv/yolo_v3/darknet/mkdir build-release/CMakeFiles/list_install_components.dir

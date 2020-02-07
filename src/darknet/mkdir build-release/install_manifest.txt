@@ -1,0 +1,9 @@
+/home/agv/yolo_v3/darknet/libdark.so
+/home/agv/yolo_v3/darknet/include/darknet/darknet.h
+/home/agv/yolo_v3/darknet/include/darknet/yolo_v2_class.hpp
+/home/agv/yolo_v3/darknet/uselib
+/home/agv/yolo_v3/darknet/darknet
+/home/agv/yolo_v3/darknet/share/darknet/DarknetTargets.cmake
+/home/agv/yolo_v3/darknet/share/darknet/DarknetTargets-noconfig.cmake
+/home/agv/yolo_v3/darknet/share/darknet/DarknetConfig.cmake
+/home/agv/yolo_v3/darknet/share/darknet/DarknetConfigVersion.cmake

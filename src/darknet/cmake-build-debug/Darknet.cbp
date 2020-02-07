@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Darknet"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\opencv346\;CMake Files\..\..\..\..\usr\local\opencv346\share\;CMake Files\..\..\..\..\usr\local\opencv346\share\OpenCV\;CMake Files\cmake\;CMake Files\cmake\Modules\;CMake Files\src\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uselib_track">
+				<Option output="/home/agv/yolo_v3/darknet/cmake-build-debug/uselib_track" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DTRACK_OPTFLOW=1"/>
+					<Add option="-DUSE_CMAKE_LIBS"/>
+					<Add option="-DOPENCV"/>
+					<Add directory="/home/agv/yolo_v3/darknet/include"/>
+					<Add directory="/home/agv/yolo_v3/darknet/src"/>
+					<Add directory="/home/agv/yolo_v3/darknet/3rdparty/stb/include"/>
+					<Add directory="/usr/local/opencv346/include"/>
+					<Add directory="/usr/local/opencv346/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 uselib_track"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uselib_track/fast">
+				<Option output="/home/agv/yolo_v3/darknet/cmake-build-debug/uselib_track" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DTRACK_OPTFLOW=1"/>
+					<Add option="-DUSE_CMAKE_LIBS"/>
+					<Add option="-DOPENCV"/>
+					<Add directory="/home/agv/yolo_v3/darknet/include"/>
+					<Add directory="/home/agv/yolo_v3/darknet/src"/>
+					<Add directory="/home/agv/yolo_v3/darknet/3rdparty/stb/include"/>
+					<Add directory="/usr/local/opencv346/include"/>
+					<Add directory="/usr/local/opencv346/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 uselib_track/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dark">
+				<Option output="/home/agv/yolo_v3/darknet/cmake-build-debug/libdarkd.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DLIB_EXPORTS=1"/>
+					<Add option="-DUSE_CMAKE_LIBS"/>
+					<Add option="-DTRACK_OPTFLOW=1"/>
+					<Add option="-DOPENCV"/>
+					<Add directory="/home/agv/yolo_v3/darknet/include"/>
+					<Add directory="/home/agv/yolo_v3/darknet/src"/>
+					<Add directory="/home/agv/yolo_v3/darknet/3rdparty/stb/include"/>
+					<Add directory="/usr/local/opencv346/include"/>
+					<Add directory="/usr/local/opencv346/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 dark"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dark/fast">
+				<Option output="/home/agv/yolo_v3/darknet/cmake-build-debug/libdarkd.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DLIB_EXPORTS=1"/>
+					<Add option="-DUSE_CMAKE_LIBS"/>
+					<Add option="-DTRACK_OPTFLOW=1"/>
+					<Add option="-DOPENCV"/>
+					<Add directory="/home/agv/yolo_v3/darknet/include"/>
+					<Add directory="/home/agv/yolo_v3/darknet/src"/>
+					<Add directory="/home/agv/yolo_v3/darknet/3rdparty/stb/include"/>
+					<Add directory="/usr/local/opencv346/include"/>
+					<Add directory="/usr/local/opencv346/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 dark/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uselib">
+				<Option output="/home/agv/yolo_v3/darknet/cmake-build-debug/uselib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_CMAKE_LIBS"/>
+					<Add option="-DTRACK_OPTFLOW=1"/>
+					<Add option="-DOPENCV"/>
+					<Add directory="/home/agv/yolo_v3/darknet/include"/>
+					<Add directory="/home/agv/yolo_v3/darknet/src"/>
+					<Add directory="/home/agv/yolo_v3/darknet/3rdparty/stb/include"/>
+					<Add directory="/usr/local/opencv346/include"/>
+					<Add directory="/usr/local/opencv346/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 uselib"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uselib/fast">
+				<Option output="/home/agv/yolo_v3/darknet/cmake-build-debug/uselib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_CMAKE_LIBS"/>
+					<Add option="-DTRACK_OPTFLOW=1"/>
+					<Add option="-DOPENCV"/>
+					<Add directory="/home/agv/yolo_v3/darknet/include"/>
+					<Add directory="/home/agv/yolo_v3/darknet/src"/>
+					<Add directory="/home/agv/yolo_v3/darknet/3rdparty/stb/include"/>
+					<Add directory="/usr/local/opencv346/include"/>
+					<Add directory="/usr/local/opencv346/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 uselib/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="darknet">
+				<Option output="/home/agv/yolo_v3/darknet/cmake-build-debug/darknet" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_CMAKE_LIBS"/>
+					<Add option="-DOPENCV"/>
+					<Add directory="/home/agv/yolo_v3/darknet/include"/>
+					<Add directory="/home/agv/yolo_v3/darknet/src"/>
+					<Add directory="/home/agv/yolo_v3/darknet/3rdparty/stb/include"/>
+					<Add directory="/usr/local/opencv346/include"/>
+					<Add directory="/usr/local/opencv346/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 darknet"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="darknet/fast">
+				<Option output="/home/agv/yolo_v3/darknet/cmake-build-debug/darknet" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agv/yolo_v3/darknet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_CMAKE_LIBS"/>
+					<Add option="-DOPENCV"/>
+					<Add directory="/home/agv/yolo_v3/darknet/include"/>
+					<Add directory="/home/agv/yolo_v3/darknet/src"/>
+					<Add directory="/home/agv/yolo_v3/darknet/3rdparty/stb/include"/>
+					<Add directory="/usr/local/opencv346/include"/>
+					<Add directory="/usr/local/opencv346/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 darknet/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/agv/yolo_v3/darknet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/agv/yolo_v3/darknet/include/darknet.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/include/yolo_v2_class.hpp">
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/activation_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/activation_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/activations.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/activations.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/art.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/avgpool_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/avgpool_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/batchnorm_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/batchnorm_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/blas.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/blas.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/box.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/box.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/captcha.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/cifar.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/classifier.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/classifier.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/coco.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/col2im.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/col2im.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/compare.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/connected_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/connected_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/conv_lstm_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/conv_lstm_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/convolutional_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/convolutional_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/cost_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/cost_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/cpu_gemm.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/crnn_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/crnn_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/crop_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/crop_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/dark_cuda.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/dark_cuda.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/darknet.c">
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/darkunistd.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/data.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/data.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/deconvolutional_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/deconvolutional_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/demo.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/demo.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/detection_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/detection_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/detector.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/dice.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/dropout_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/dropout_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/gaussian_yolo_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/gaussian_yolo_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/gemm.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/gemm.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/go.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/gru_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/gru_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/http_stream.cpp">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/http_stream.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/httplib.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/im2col.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/im2col.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/image.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/image.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/image_opencv.cpp">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/image_opencv.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/list.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/list.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/local_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/local_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/lstm_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/lstm_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/matrix.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/matrix.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/maxpool_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/maxpool_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/network.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/network.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/nightmare.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/normalization_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/normalization_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/option_list.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/option_list.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/parser.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/parser.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/region_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/region_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/reorg_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/reorg_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/reorg_old_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/reorg_old_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/rnn.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/rnn_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/rnn_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/rnn_vid.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/route_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/route_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/sam_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/sam_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/scale_channels_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/scale_channels_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/shortcut_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/shortcut_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/softmax_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/softmax_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/super.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/swag.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/tag.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/tree.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/tree.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/upsample_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/upsample_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/utils.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/utils.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/version.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/voxel.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/writing.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/yolo.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/yolo_console_dll.cpp">
+			<Option target="uselib_track"/>
+			<Option target="uselib"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/yolo_layer.c">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/yolo_layer.h">
+			<Option target="dark"/>
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/yolo_v2_class.cpp">
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/DarknetConfig.cmake.in">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/../../../../usr/local/opencv346/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\opencv346\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/../../../../usr/local/opencv346/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\opencv346\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/../../../../usr/local/opencv346/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\opencv346\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/../../../../usr/local/opencv346/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\opencv346\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/cmake/Modules/FindStb.cmake">
+			<Option virtualFolder="CMake Files\cmake\Modules\"/>
+		</Unit>
+		<Unit filename="/home/agv/yolo_v3/darknet/src/version.h.in">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

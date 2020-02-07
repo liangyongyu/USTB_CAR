@@ -1,0 +1,1 @@
+ADD_LIBRARY(Algorithm_LIB algorithm.cpp)

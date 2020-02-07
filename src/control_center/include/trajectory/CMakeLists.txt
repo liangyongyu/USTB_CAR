@@ -1,0 +1,1 @@
+add_library(TRAJECTORY_LIB SHARED trajectory.cpp)

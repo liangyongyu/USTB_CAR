@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Project" targetName="frmudpserver_gennodejs" />
+      <config projectName="Project" targetName="roscpp_generate_messages_eus" />
+      <config projectName="Project" targetName="_frmudpserver_generate_messages_check_deps_Initial_data" />
+      <config projectName="Project" targetName="darknet" />
+      <config projectName="Project" targetName="joy_data_generate_messages_py" />
+      <config projectName="Project" targetName="agv_control_gennodejs" />
+      <config projectName="Project" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="Project" targetName="gtest_main" />
+      <config projectName="Project" targetName="_sim_data_generate_messages_check_deps_sim_data" />
+      <config projectName="Project" targetName="frmudpserver_generate_messages_nodejs" />
+      <config projectName="Project" targetName="joy_data_generate_messages" />
+      <config projectName="Project" targetName="Following_path_generate_messages_lisp" />
+      <config projectName="Project" targetName="gmock" />
+      <config projectName="Project" targetName="agv_control_gencpp" />
+      <config projectName="Project" targetName="Following_path_gencpp" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="sim_data_generate_messages_cpp" />
+      <config projectName="Project" targetName="doxygen" />
+      <config projectName="Project" targetName="joy_data_generate_messages_cpp" />
+      <config projectName="Project" targetName="Darknet_genlisp" />
+      <config projectName="Project" targetName="sim_data_gennodejs" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="sim_data_geneus" />
+      <config projectName="Project" targetName="darknet_generate_messages_eus" />
+      <config projectName="Project" targetName="sim_data_generate_messages_lisp" />
+      <config projectName="Project" targetName="clean_test_results" />
+      <config projectName="Project" targetName="control_center_generate_messages_py" />
+      <config projectName="Project" targetName="control_center_generate_messages_cpp" />
+      <config projectName="Project" targetName="control_center_geneus" />
+      <config projectName="Project" targetName="Darknet_generate_messages_nodejs" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="stcarCtrlServer" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="frmudpserver_generate_messages" />
+      <config projectName="Project" targetName="darknet_generate_messages_py" />
+      <config projectName="Project" targetName="Following_path_generate_messages_nodejs" />
+      <config projectName="Project" targetName="Darknet_generate_messages_py" />
+      <config projectName="Project" targetName="sim_data_generate_messages_py" />
+      <config projectName="Project" targetName="Test" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="frmudpserver_genlisp" />
+      <config projectName="Project" targetName="darknet_genpy" />
+      <config projectName="Project" targetName="frmudpserver_generate_messages_cpp" />
+      <config projectName="Project" targetName="agv_control_generate_messages_cpp" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="_Following_path_generate_messages_check_deps_Path_para" />
+      <config projectName="Project" targetName="darknet_generate_messages_nodejs" />
+      <config projectName="Project" targetName="control_center_generate_messages_lisp" />
+      <config projectName="Project" targetName="frmudpserver_autogen" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="Darknet_generate_messages" />
+      <config projectName="Project" targetName="agv_control_generate_messages_py" />
+      <config projectName="Project" targetName="Following_path_generate_messages_eus" />
+      <config projectName="Project" targetName="agv_control_genpy" />
+      <config projectName="Project" targetName="_Darknet_generate_messages_check_deps_person_box" />
+      <config projectName="Project" targetName="Darknet_geneus" />
+      <config projectName="Project" targetName="uselib" />
+      <config projectName="Project" targetName="run_tests" />
+      <config projectName="Project" targetName="_agv_control_generate_messages_check_deps_feedback" />
+      <config projectName="Project" targetName="sim_data_gencpp" />
+      <config projectName="Project" targetName="sim_data_genpy" />
+      <config projectName="Project" targetName="control_center_node" />
+      <config projectName="Project" targetName="frmudpserver_gencpp" />
+      <config projectName="Project" targetName="TRAJECTORY_LIB" />
+      <config projectName="Project" targetName="control_center_gencpp" />
+      <config projectName="Project" targetName="sim_data_generate_messages_nodejs" />
+      <config projectName="Project" targetName="joy_data_geneus" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="gtest" />
+      <config projectName="Project" targetName="std_srvs_generate_messages_eus" />
+      <config projectName="Project" targetName="gmock_main" />
+      <config projectName="Project" targetName="Darknet_generate_messages_lisp" />
+      <config projectName="Project" targetName="Following_path_geneus" />
+      <config projectName="Project" targetName="frmudpserver_geneus" />
+      <config projectName="Project" targetName="Following_path_generate_messages" />
+      <config projectName="Project" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="tests" />
+      <config projectName="Project" targetName="control_center_generate_messages_nodejs" />
+      <config projectName="Project" targetName="darknet_generate_messages_cpp" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="Project" targetName="sim_data_genlisp" />
+      <config projectName="Project" targetName="control_center_genpy" />
+      <config projectName="Project" targetName="control_center_genlisp" />
+      <config projectName="Project" targetName="_control_center_generate_messages_check_deps_show_data" />
+      <config projectName="Project" targetName="Following_path_gennodejs" />
+      <config projectName="Project" targetName="darknet_geneus" />
+      <config projectName="Project" targetName="frmudpserver" />
+      <config projectName="Project" targetName="Following_path_generate_messages_cpp" />
+      <config projectName="Project" targetName="Darknet_generate_messages_eus" />
+      <config projectName="Project" targetName="SIM_LIB" />
+      <config projectName="Project" targetName="CAR_CLASS_LIB" />
+      <config projectName="Project" targetName="Darknet_gencpp" />
+      <config projectName="Project" targetName="darknet_generate_messages_lisp" />
+      <config projectName="Project" targetName="Following_path_genlisp" />
+      <config projectName="Project" targetName="path" />
+      <config projectName="Project" targetName="roscpp_generate_messages_py" />
+      <config projectName="Project" targetName="Following_path_genpy" />
+      <config projectName="Project" targetName="joy_data_generate_messages_nodejs" />
+      <config projectName="Project" targetName="std_srvs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="frmudpserver_generate_messages_lisp" />
+      <config projectName="Project" targetName="joy_data_genpy" />
+      <config projectName="Project" targetName="Algorithm_LIB" />
+      <config projectName="Project" targetName="agv_control_genlisp" />
+      <config projectName="Project" targetName="joy_data_gencpp" />
+      <config projectName="Project" targetName="agv_control_generate_messages_nodejs" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="Project" targetName="std_srvs_generate_messages_cpp" />
+      <config projectName="Project" targetName="Following_path_generate_messages_py" />
+      <config projectName="Project" targetName="sim_data_generate_messages_eus" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="Project" targetName="sim_data_generate_messages" />
+      <config projectName="Project" targetName="joy_data_generate_messages_eus" />
+      <config projectName="Project" targetName="joy_data_gennodejs" />
+      <config projectName="Project" targetName="control_center_gennodejs" />
+      <config projectName="Project" targetName="control_center_generate_messages" />
+      <config projectName="Project" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="Project" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="Project" targetName="frmudpserver_genpy" />
+      <config projectName="Project" targetName="_joy_data_generate_messages_check_deps_joydata" />
+      <config projectName="Project" targetName="darknet_generate_messages" />
+      <config projectName="Project" targetName="agv_control_generate_messages_lisp" />
+      <config projectName="Project" targetName="uselib_track" />
+      <config projectName="Project" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="Project" targetName="std_srvs_generate_messages_lisp" />
+      <config projectName="Project" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="Project" targetName="download_extra_data" />
+      <config projectName="Project" targetName="control_center_generate_messages_eus" />
+      <config projectName="Project" targetName="Darknet_genpy" />
+      <config projectName="Project" targetName="joy_data_generate_messages_lisp" />
+      <config projectName="Project" targetName="sim_data_node" />
+      <config projectName="Project" targetName="frmudpserver_generate_messages_py" />
+      <config projectName="Project" targetName="dark" />
+      <config projectName="Project" targetName="_joy_data_generate_messages_check_deps_control" />
+      <config projectName="Project" targetName="agv_control_generate_messages" />
+      <config projectName="Project" targetName="joy_data_genlisp" />
+      <config projectName="Project" targetName="Darknet_gennodejs" />
+      <config projectName="Project" targetName="darknet_gencpp" />
+      <config projectName="Project" targetName="agv_control_geneus" />
+      <config projectName="Project" targetName="Darknet_generate_messages_cpp" />
+      <config projectName="Project" targetName="std_srvs_generate_messages_py" />
+      <config projectName="Project" targetName="darknet_gennodejs" />
+      <config projectName="Project" targetName="frmudpserver_generate_messages_eus" />
+      <config projectName="Project" targetName="darknet_genlisp" />
+      <config projectName="Project" targetName="agv_control_generate_messages_eus" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" GENERATION_OPTIONS="-DCATKIN_DEVEL_PREFIX=/home/liang/USTB_CAR/devel -DCMAKE_INSTALL_PREFIX=/home/liang/USTB_CAR/install" GENERATION_DIR="$PROJECT_DIR$/../build">
+        <ADDITIONAL_GENERATION_ENVIRONMENT>
+          <envs>
+            <env name="PATH" value="/opt/ros/melodic/bin:/home/liang/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin" />
+            <env name="PKG_CONFIG_PATH" value="/opt/ros/melodic/lib/pkgconfig" />
+            <env name="PYTHONPATH" value="/opt/ros/melodic/lib/python2.7/dist-packages" />
+            <env name="ROS_VERSION" value="1" />
+            <env name="ROS_DISTRO" value="melodic" />
+            <env name="CMAKE_PREFIX_PATH" value="/opt/ros/melodic" />
+            <env name="ROS_PACKAGE_PATH" value="/opt/ros/melodic/share" />
+            <env name="ROS_PYTHON_VERSION" value="2" />
+            <env name="ROS_ETC_DIR" value="/opt/ros/melodic/etc/ros" />
+            <env name="LD_LIBRARY_PATH" value="/opt/ros/melodic/lib" />
+            <env name="ROS_ROOT" value="/opt/ros/melodic/share/ros" />
+            <env name="ROS_MASTER_URI" value="http://localhost:11311" />
+            <env name="ROSLISP_PACKAGE_DIRECTORIES" value="" />
+            <env name="PWD" value="/opt/ros/melodic" />
+            <env name="SHLVL" value="1" />
+            <env name="_" value="/usr/bin/env" />
+          </envs>
+        </ADDITIONAL_GENERATION_ENVIRONMENT>
+      </configuration>
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d5a39b7-cd98-4fa4-9b94-0def74d8b066" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1XTAu6EBqYBjzDvyjpffPp3nP9A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.control_center_node">
+    <configuration name="Algorithm_LIB" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Algorithm_LIB" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CAR_CLASS_LIB" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="CAR_CLASS_LIB" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Darknet_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Darknet_gencpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Darknet_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Darknet_generate_messages" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Darknet_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Darknet_generate_messages_cpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Darknet_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Darknet_generate_messages_eus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Darknet_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Darknet_generate_messages_lisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Darknet_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Darknet_generate_messages_nodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Darknet_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Darknet_generate_messages_py" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Darknet_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Darknet_geneus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Darknet_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Darknet_genlisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Darknet_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Darknet_gennodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Darknet_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Darknet_genpy" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Following_path_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Following_path_gencpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Following_path_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Following_path_generate_messages" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Following_path_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Following_path_generate_messages_cpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Following_path_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Following_path_generate_messages_eus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Following_path_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Following_path_generate_messages_lisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Following_path_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Following_path_generate_messages_nodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Following_path_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Following_path_generate_messages_py" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Following_path_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Following_path_geneus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Following_path_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Following_path_genlisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Following_path_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Following_path_gennodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Following_path_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Following_path_genpy" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SIM_LIB" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="SIM_LIB" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TRAJECTORY_LIB" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="TRAJECTORY_LIB" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Test" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="Test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_Darknet_generate_messages_check_deps_person_box" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_Darknet_generate_messages_check_deps_person_box" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_Following_path_generate_messages_check_deps_Path_para" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_Following_path_generate_messages_check_deps_Path_para" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_agv_control_generate_messages_check_deps_feedback" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_agv_control_generate_messages_check_deps_feedback" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_control_center_generate_messages_check_deps_show_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_control_center_generate_messages_check_deps_show_data" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_frmudpserver_generate_messages_check_deps_Initial_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_frmudpserver_generate_messages_check_deps_Initial_data" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_joy_data_generate_messages_check_deps_control" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_joy_data_generate_messages_check_deps_control" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_joy_data_generate_messages_check_deps_joydata" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_joy_data_generate_messages_check_deps_joydata" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_sim_data_generate_messages_check_deps_sim_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="_sim_data_generate_messages_check_deps_sim_data" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="agv_control_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="agv_control_gencpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="agv_control_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="agv_control_generate_messages" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="agv_control_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="agv_control_generate_messages_cpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="agv_control_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="agv_control_generate_messages_eus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="agv_control_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="agv_control_generate_messages_lisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="agv_control_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="agv_control_generate_messages_nodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="agv_control_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="agv_control_generate_messages_py" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="agv_control_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="agv_control_geneus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="agv_control_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="agv_control_genlisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="agv_control_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="agv_control_gennodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="agv_control_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="agv_control_genpy" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="clean_test_results" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_center_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="control_center_gencpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_center_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="control_center_generate_messages" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_center_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="control_center_generate_messages_cpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_center_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="control_center_generate_messages_eus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_center_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="control_center_generate_messages_lisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_center_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="control_center_generate_messages_nodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_center_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="control_center_generate_messages_py" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_center_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="control_center_geneus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_center_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="control_center_genlisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_center_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="control_center_gennodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_center_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="control_center_genpy" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_center_node" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="control_center_node" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="control_center_node">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dark" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="dark" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="darknet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="darknet" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="darknet">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="darknet_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="darknet_gencpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="darknet_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="darknet_generate_messages" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="darknet_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="darknet_generate_messages_cpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="darknet_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="darknet_generate_messages_eus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="darknet_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="darknet_generate_messages_lisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="darknet_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="darknet_generate_messages_nodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="darknet_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="darknet_generate_messages_py" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="darknet_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="darknet_geneus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="darknet_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="darknet_genlisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="darknet_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="darknet_gennodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="darknet_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="darknet_genpy" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="download_extra_data" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="doxygen" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmudpserver" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="frmudpserver" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="frmudpserver">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmudpserver_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="frmudpserver_autogen" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmudpserver_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="frmudpserver_gencpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmudpserver_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="frmudpserver_generate_messages" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmudpserver_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="frmudpserver_generate_messages_cpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmudpserver_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="frmudpserver_generate_messages_eus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmudpserver_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="frmudpserver_generate_messages_lisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmudpserver_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="frmudpserver_generate_messages_nodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmudpserver_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="frmudpserver_generate_messages_py" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmudpserver_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="frmudpserver_geneus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmudpserver_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="frmudpserver_genlisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmudpserver_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="frmudpserver_gennodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="frmudpserver_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="frmudpserver_genpy" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="geometry_msgs_generate_messages_eus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="geometry_msgs_generate_messages_nodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gmock" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gmock_main" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gtest" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="gtest_main" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joy_data_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="joy_data_gencpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joy_data_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="joy_data_generate_messages" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joy_data_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="joy_data_generate_messages_cpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joy_data_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="joy_data_generate_messages_eus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joy_data_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="joy_data_generate_messages_lisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joy_data_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="joy_data_generate_messages_nodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joy_data_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="joy_data_generate_messages_py" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joy_data_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="joy_data_geneus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joy_data_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="joy_data_genlisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joy_data_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="joy_data_gennodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joy_data_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="joy_data_genpy" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="path" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="path" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="path">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="run_tests" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sim_data_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sim_data_gencpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sim_data_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sim_data_generate_messages" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sim_data_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sim_data_generate_messages_cpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sim_data_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sim_data_generate_messages_eus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sim_data_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sim_data_generate_messages_lisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sim_data_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sim_data_generate_messages_nodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sim_data_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sim_data_generate_messages_py" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sim_data_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sim_data_geneus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sim_data_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sim_data_genlisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sim_data_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sim_data_gennodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sim_data_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sim_data_genpy" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sim_data_node" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="sim_data_node" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="sim_data_node">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stcarCtrlServer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="stcarCtrlServer" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="stcarCtrlServer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_srvs_generate_messages_cpp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_srvs_generate_messages_eus" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_srvs_generate_messages_lisp" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_srvs_generate_messages_nodejs" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="std_srvs_generate_messages_py" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tests" CONFIG_NAME="Release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uselib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="uselib" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="uselib">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uselib_track" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="uselib_track" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="uselib_track">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.clean_test_results" />
+      <item itemvalue="CMake Application.download_extra_data" />
+      <item itemvalue="CMake Application.doxygen" />
+      <item itemvalue="CMake Application.run_tests" />
+      <item itemvalue="CMake Application.tests" />
+      <item itemvalue="CMake Application._agv_control_generate_messages_check_deps_feedback" />
+      <item itemvalue="CMake Application.agv_control_gencpp" />
+      <item itemvalue="CMake Application.agv_control_generate_messages" />
+      <item itemvalue="CMake Application.agv_control_generate_messages_cpp" />
+      <item itemvalue="CMake Application.agv_control_generate_messages_eus" />
+      <item itemvalue="CMake Application.agv_control_generate_messages_lisp" />
+      <item itemvalue="CMake Application.agv_control_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.agv_control_generate_messages_py" />
+      <item itemvalue="CMake Application.agv_control_geneus" />
+      <item itemvalue="CMake Application.agv_control_genlisp" />
+      <item itemvalue="CMake Application.agv_control_gennodejs" />
+      <item itemvalue="CMake Application.agv_control_genpy" />
+      <item itemvalue="CMake Application.stcarCtrlServer" />
+      <item itemvalue="CMake Application._control_center_generate_messages_check_deps_show_data" />
+      <item itemvalue="CMake Application.control_center_gencpp" />
+      <item itemvalue="CMake Application.control_center_generate_messages" />
+      <item itemvalue="CMake Application.control_center_generate_messages_cpp" />
+      <item itemvalue="CMake Application.control_center_generate_messages_eus" />
+      <item itemvalue="CMake Application.control_center_generate_messages_lisp" />
+      <item itemvalue="CMake Application.control_center_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.control_center_generate_messages_py" />
+      <item itemvalue="CMake Application.control_center_geneus" />
+      <item itemvalue="CMake Application.control_center_genlisp" />
+      <item itemvalue="CMake Application.control_center_gennodejs" />
+      <item itemvalue="CMake Application.control_center_genpy" />
+      <item itemvalue="CMake Application.control_center_node" />
+      <item itemvalue="CMake Application.Algorithm_LIB" />
+      <item itemvalue="CMake Application.CAR_CLASS_LIB" />
+      <item itemvalue="CMake Application.TRAJECTORY_LIB" />
+      <item itemvalue="CMake Application._Darknet_generate_messages_check_deps_person_box" />
+      <item itemvalue="CMake Application.dark" />
+      <item itemvalue="CMake Application.darknet" />
+      <item itemvalue="CMake Application.darknet_gencpp" />
+      <item itemvalue="CMake Application.Darknet_gencpp" />
+      <item itemvalue="CMake Application.darknet_generate_messages" />
+      <item itemvalue="CMake Application.Darknet_generate_messages" />
+      <item itemvalue="CMake Application.darknet_generate_messages_cpp" />
+      <item itemvalue="CMake Application.Darknet_generate_messages_cpp" />
+      <item itemvalue="CMake Application.Darknet_generate_messages_eus" />
+      <item itemvalue="CMake Application.darknet_generate_messages_eus" />
+      <item itemvalue="CMake Application.darknet_generate_messages_lisp" />
+      <item itemvalue="CMake Application.Darknet_generate_messages_lisp" />
+      <item itemvalue="CMake Application.Darknet_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.darknet_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.Darknet_generate_messages_py" />
+      <item itemvalue="CMake Application.darknet_generate_messages_py" />
+      <item itemvalue="CMake Application.Darknet_geneus" />
+      <item itemvalue="CMake Application.darknet_geneus" />
+      <item itemvalue="CMake Application.Darknet_genlisp" />
+      <item itemvalue="CMake Application.darknet_genlisp" />
+      <item itemvalue="CMake Application.Darknet_gennodejs" />
+      <item itemvalue="CMake Application.darknet_gennodejs" />
+      <item itemvalue="CMake Application.Darknet_genpy" />
+      <item itemvalue="CMake Application.darknet_genpy" />
+      <item itemvalue="CMake Application.uselib" />
+      <item itemvalue="CMake Application.uselib_track" />
+      <item itemvalue="CMake Application._Following_path_generate_messages_check_deps_Path_para" />
+      <item itemvalue="CMake Application.Following_path_gencpp" />
+      <item itemvalue="CMake Application.Following_path_generate_messages" />
+      <item itemvalue="CMake Application.Following_path_generate_messages_cpp" />
+      <item itemvalue="CMake Application.Following_path_generate_messages_eus" />
+      <item itemvalue="CMake Application.Following_path_generate_messages_lisp" />
+      <item itemvalue="CMake Application.Following_path_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.Following_path_generate_messages_py" />
+      <item itemvalue="CMake Application.Following_path_geneus" />
+      <item itemvalue="CMake Application.Following_path_genlisp" />
+      <item itemvalue="CMake Application.Following_path_gennodejs" />
+      <item itemvalue="CMake Application.Following_path_genpy" />
+      <item itemvalue="CMake Application.geometry_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.geometry_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.geometry_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.geometry_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.geometry_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.path" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_cpp" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_eus" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_lisp" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.roscpp_generate_messages_py" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.rosgraph_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.std_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.std_srvs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.std_srvs_generate_messages_eus" />
+      <item itemvalue="CMake Application.std_srvs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.std_srvs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.std_srvs_generate_messages_py" />
+      <item itemvalue="CMake Application._frmudpserver_generate_messages_check_deps_Initial_data" />
+      <item itemvalue="CMake Application.frmudpserver" />
+      <item itemvalue="CMake Application.frmudpserver_autogen" />
+      <item itemvalue="CMake Application.frmudpserver_gencpp" />
+      <item itemvalue="CMake Application.frmudpserver_generate_messages" />
+      <item itemvalue="CMake Application.frmudpserver_generate_messages_cpp" />
+      <item itemvalue="CMake Application.frmudpserver_generate_messages_eus" />
+      <item itemvalue="CMake Application.frmudpserver_generate_messages_lisp" />
+      <item itemvalue="CMake Application.frmudpserver_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.frmudpserver_generate_messages_py" />
+      <item itemvalue="CMake Application.frmudpserver_geneus" />
+      <item itemvalue="CMake Application.frmudpserver_genlisp" />
+      <item itemvalue="CMake Application.frmudpserver_gennodejs" />
+      <item itemvalue="CMake Application.frmudpserver_genpy" />
+      <item itemvalue="CMake Application._joy_data_generate_messages_check_deps_control" />
+      <item itemvalue="CMake Application._joy_data_generate_messages_check_deps_joydata" />
+      <item itemvalue="CMake Application.joy_data_gencpp" />
+      <item itemvalue="CMake Application.joy_data_generate_messages" />
+      <item itemvalue="CMake Application.joy_data_generate_messages_cpp" />
+      <item itemvalue="CMake Application.joy_data_generate_messages_eus" />
+      <item itemvalue="CMake Application.joy_data_generate_messages_lisp" />
+      <item itemvalue="CMake Application.joy_data_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.joy_data_generate_messages_py" />
+      <item itemvalue="CMake Application.joy_data_geneus" />
+      <item itemvalue="CMake Application.joy_data_genlisp" />
+      <item itemvalue="CMake Application.joy_data_gennodejs" />
+      <item itemvalue="CMake Application.joy_data_genpy" />
+      <item itemvalue="CMake Application._sim_data_generate_messages_check_deps_sim_data" />
+      <item itemvalue="CMake Application.sim_data_gencpp" />
+      <item itemvalue="CMake Application.sim_data_generate_messages" />
+      <item itemvalue="CMake Application.sim_data_generate_messages_cpp" />
+      <item itemvalue="CMake Application.sim_data_generate_messages_eus" />
+      <item itemvalue="CMake Application.sim_data_generate_messages_lisp" />
+      <item itemvalue="CMake Application.sim_data_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.sim_data_generate_messages_py" />
+      <item itemvalue="CMake Application.sim_data_geneus" />
+      <item itemvalue="CMake Application.sim_data_genlisp" />
+      <item itemvalue="CMake Application.sim_data_gennodejs" />
+      <item itemvalue="CMake Application.sim_data_genpy" />
+      <item itemvalue="CMake Application.sim_data_node" />
+      <item itemvalue="CMake Application.Test" />
+      <item itemvalue="CMake Application.SIM_LIB" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d5a39b7-cd98-4fa4-9b94-0def74d8b066" name="Default Changelist" comment="" />
+      <created>1581059929301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581059929301</updated>
+      <workItem from="1581059930615" duration="41000" />
+      <workItem from="1581059982477" duration="936000" />
+      <workItem from="1581061188383" duration="600000" />
+      <workItem from="1581061831475" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

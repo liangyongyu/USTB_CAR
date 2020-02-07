@@ -1,0 +1,6 @@
+int32 i
+---
+float32 A
+float32 B
+float32 startpoint
+float32 endpoint
